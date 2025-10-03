@@ -35,11 +35,19 @@ Capture screenshots of the waveform and save the simulation logs. These will be 
 // output Waveform
 
  # FIFO
- // write verilog code for FIFO
- 
- // Test bench
 
-// output Waveform
+### Verilog code
+ <img width="1920" height="1080" alt="sync_fifo_rtl_code" src="https://github.com/user-attachments/assets/0c9146af-d226-42fd-be56-fe5ecbaa59ac" />
+
+### Testbench code
+ <img width="1920" height="1080" alt="tb_fifo_code" src="https://github.com/user-attachments/assets/72d97e55-9b5e-41fd-b7aa-33a70eb580b5" />
+
+### output waveform
+  <img width="1920" height="1080" alt="sync_fifo_rtl_output" src="https://github.com/user-attachments/assets/e46f5275-46ef-45e1-9408-28b40a251691" />
+ 
+
+
+
 
 
 
